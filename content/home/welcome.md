@@ -33,7 +33,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                             <!-- <a href="https://css.dgut.edu.cn/list?14">Department of Software Engineering</a> >> -->
 <!--                             <a href="https://css.dgut.edu.cn/">School of Cyberspace Security</a> >> -->
                             <a href="https://cs.dgut.edu.cn/">School of Computer Science and Technology</a> >>
-                            <a href="https://www.dgut.edu.cn/index.htm">Dongguan University of Technology</a>
+                            <a href="https://www.dgut.edu.cn/index.html">Dongguan University of Technology</a>
                         </h3>
                         <div>
                             <ul class="ul-edu fa-ul mb-0">

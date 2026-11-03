@@ -33,7 +33,7 @@ abstract: Existing core-set selection methods predominantly rely on heuristic sc
 
 # links:
 url_pdf: https://arxiv.org/pdf/2511.19274
-# url_code: https://github.com/mchen725/DRD
+url_code: https://github.com/mchen725/DRD
 # url_dataset: ''
 # url_poster:  ''
 # url_project: ''

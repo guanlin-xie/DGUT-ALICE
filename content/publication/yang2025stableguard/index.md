@@ -35,7 +35,7 @@ abstract: The advancement of diffusion models has enhanced the realism of AI-gen
 
 # links:
 url_pdf: https://arxiv.org/pdf/2509.17993
-# url_code: https://github.com/Harxis/StableGuard
+url_code: https://github.com/Harxis/StableGuard
 # url_code: ''
 # url_dataset: ''
 # url_poster:  ''

@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 # title: DGUT-Advanced Learning and Information Security (ALIS) Lab
-# hero_media: welcome-img.jpg
+# hero_media: welcome-img.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -86,7 +86,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                         </ul>
                     </div>
                     <div class="col-md-7" style="margin-top: 50px;">
-                        <img src="/home/lab.jpg">
+                        <img src="/home/lab.png">
                     </div>
                 </div>
             </div>

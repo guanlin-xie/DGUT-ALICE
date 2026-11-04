@@ -4,7 +4,7 @@ title: "Diffusion Reconstruction-based Data Likelihood Estimation for Core-Set S
 authors:
 - Mingyang Chen 
 - Jiawei Du 
-- B. Huang 
+- Bo Huang 
 - Yi Wang
 - Xiaobo Zhang
 - Wei Wang

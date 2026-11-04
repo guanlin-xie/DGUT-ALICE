@@ -80,7 +80,6 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                         <ul class="ul-interests mb-0">
                             <li>Generating and Defending Adversarial Examples</li>
                             <li>Collaborative Training and Knowledge Distillation</li>
-                            <li>Biometric Privacy</li>
                             <li>Generative Models and Data Augmentation</li>
                         </ul>
                     </div>

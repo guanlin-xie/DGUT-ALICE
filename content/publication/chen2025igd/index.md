@@ -33,7 +33,7 @@ abstract: Dataset distillation aims to streamline the training process by creati
 
 # links:
 url_pdf: https://proceedings.iclr.cc/paper_files/paper/2025/file/d3e50c185ced668857ba40a7d4a29efc-Paper-Conference.pdf
-# url_code:  https://github.com/mchen725/DD_IGD 
+url_code:  https://github.com/mchen725/DD_IGD 
 # url_dataset: ''
 # url_poster:  ''
 # url_project: ''

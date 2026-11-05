@@ -10,7 +10,7 @@ authors:
 - Wei Wang
 
 date: ""
-doi: "10.48550/arXiv.2511.19274"
+doi: "10.1609/aaai.v40i17.38473"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-24T00:00:00Z"

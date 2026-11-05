@@ -99,14 +99,13 @@ select.form-control-sm{
 
 // 仅缩小 Publications 列表中的论文标题
 // 注意：本站 view:5 为 showcase 视图，标题真实 class 为 .article-title（外层 .view-showcase），
-// body 上没有 .publication class，因此不要用 .publication 作为前缀，否则匹配不到元素。
 .view-showcase .article-title,
 .view-showcase .article-title a,
 .card-simple .article-title,
 .media.stream-item .article-title,
 .pub-list-item .article-title {
-  font-size: 0.5rem !important; // 想更小就调到 0.85rem / 0.8rem；想保留稍大可用 1.05rem
-  line-height: 1.35 !important;
+  font-size: 0.5rem; // 想更小就调到 0.85rem / 0.8rem；想保留稍大可用 1.05rem
+  line-height: 1.35;
 }
 
 

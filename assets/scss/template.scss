@@ -97,9 +97,3 @@ select.form-control-sm{
 }
 
 
-// 仅缩小 Publications 列表中的论文标题
-.publication .article-title,
-.publication .article-title a {
-  font-size: 0.5rem; // 数值按需调小，如 0.9rem / 0.85rem
-  line-height: 1.35;
-}

@@ -1,0 +1,15 @@
+{{/* 站点自定义 head：在此注入的样式不经过 SCSS 编译，直接内联到 <head>，优先级最高。 */}}
+<style>
+  /* 缩小 Publications 列表中的论文标题 */
+  /* 兼容两种结构：上游默认 list.html 的裸 <h2><a>，以及 compact/card/citation 的 .article-title */
+  .universal-wrapper h2,
+  .universal-wrapper h2 a,
+  .universal-wrapper .article-title,
+  .universal-wrapper .article-title a,
+  .card-simple .article-title,
+  .media.stream-item .article-title,
+  .pub-list-item .article-title {
+    font-size: 0.95rem !important;
+    line-height: 1.35 !important;
+  }
+</style>
